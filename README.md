@@ -15,7 +15,7 @@
 
 ### About me
 
-- 🎓 4th-year Computer Engineering student, Electrical & Electronics Engineering background (AGÜ)
+- 🎓 4th-year Electrical & Electronics Engineering background (AGÜ)
 - 🤖 I build robots and the software that runs them: tracked rovers, an AGV that carries 200 kg, a quadruped robot dog
 - 🧠 I like connecting AI with hardware — computer vision on Raspberry Pi, local LLMs, ML models
 - 🌱 With my team I built **KarbonPusula**, an AI carbon reporting app for SMEs — **3rd place at COP31 Climate Technologies Creathon**
