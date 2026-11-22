@@ -27,6 +27,7 @@
 **Languages:** Python · C / C++ · ARM Assembly · JavaScript · MATLAB
 **Embedded & robotics:** STM32 · Arduino · ESP32 · Raspberry Pi · ROS 2 · LiDAR
 **AI / ML:** PyTorch · TensorFlow / Keras · scikit-learn · XGBoost · OpenCV · RAG / LLMs
+**Web & desktop:** Node.js · Electron · Flask · Chrome Extensions (MV3) · Tkinter
 **Tools:** Git · Docker · Linux · Keil µVision · 3D printing (Bambu Lab)
 
 ---
@@ -36,6 +37,11 @@
 | Project | What it is |
 |---|---|
 | 🌱 [**KarbonPusula**](https://github.com/EnesErdogans/KarbonPusula-Showcase) | AI-assisted carbon inventory & CBAM reporting for SMEs — COP31 Creathon 3rd place *(showcase)* |
+| 🚜 [**AGV Platform**](https://github.com/EnesErdogans/agv-platform) | 200 kg AGV/UGV software — fleet simulator & control panel, ROS 2 LiDAR SLAM + AI Camera on Raspberry Pi, ESP-NOW remote |
+| 📄 [**DosyaKit**](https://github.com/EnesErdogans/dosyakit) | Offline iLovePDF-style file converter & PDF toolkit (Python, Flask, PyMuPDF) |
+| 🧩 [**Başvuru Asistanı**](https://github.com/EnesErdogans/basvuru-asistani) | Chrome extension: fills job application forms, attaches CV, Kanban tracking |
+| 🌙 [**Gece Okuru**](https://github.com/EnesErdogans/gece-okuru) | Chrome extension: dark/sepia themes, reading mode, text-to-speech for every site |
+| 💡 [**Ampul Widget**](https://github.com/EnesErdogans/ampul-widget) | Desktop widget for a Fonri / Tuya smart bulb (local network + cloud) |
 | 📚 [**Local-RAG-Assistant**](https://github.com/EnesErdogans/Local-RAG-Assistant) | Offline document Q&A with Foundry Local, SQLite vector search and Streamlit |
 | 🏠 [**House Price Prediction**](https://github.com/EnesErdogans/COMP468-) | Stacked ensemble + Optuna — Kaggle top 0.3 % (226 / 70,000+) |
 | 🎯 [**Color-Track Pan-Tilt Camera**](https://github.com/EnesErdogans/color-track-pan-tilt-camera) | OpenCV color tracking with a Flask web UI and Arduino servos |
@@ -46,7 +52,9 @@
 | 🩺 [**Electronic Stethoscope**](https://github.com/EnesErdogans/Electronic-Stethoscope-2024-) | Heart & lung sound filtering, BPM / RPM with FFT (Arduino + MATLAB) |
 
 <p align="center">
-  <img src="assets/karbonpusula-panel.png" width="32%" alt="KarbonPusula dashboard">
+  <img src="assets/fleet-studio.jpg" width="49%" alt="AGV Fleet Studio">
+  <img src="assets/karbonpusula-panel.png" width="49%" alt="KarbonPusula dashboard"><br>
+  <img src="assets/dosyakit.jpg" width="32%" alt="DosyaKit">
   <img src="assets/thevenin-simulator.png" width="32%" alt="Thevenin simulator">
   <img src="assets/kesif-elektronik.png" width="32%" alt="Recon robot electronics">
 </p>
