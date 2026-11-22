@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Enes Erdoğan 👋</h1>
 
 <p align="center">
-  Electrical & Electronics and Computer Engineering student at Abdullah Gül University, Kayseri<br>
+  Electrical & Electronics student at Abdullah Gül University, Kayseri<br>
   Robotics · Embedded systems · AI · Founder & team captain of <b>Sumer Technology</b>
 </p>
 
